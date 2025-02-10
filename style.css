@@ -69,7 +69,7 @@ background-color: #0D1117;
     font-size: 16px;
 }
 .nav-con1 input:hover{
-    cursor: alias;
+    cursor: text;
 }
 .nav-con1 i{
     left: 10px;
@@ -362,6 +362,7 @@ position: relative;
 top: 10px;
 font-weight: 600;
 }
+
 .swimlane2{
     padding-top: 100px;
 }
